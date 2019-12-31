@@ -1,0 +1,54 @@
+1 . Grup 
+	 1 . Bursaspor 
+	 2 . Istanbulspor 
+	 3 . ﻿Basaksehir 
+	 4 . Boluspor 
+
+2 . Grup 
+	 1 . Karabukspo 
+	 2 . Ankaragucu 
+	 3 . Giresunspor 
+	 4 . Balikesirspor 
+
+3 . Grup 
+	 1 . Sivasspor 
+	 2 . Gazisehir Gaziantep 
+	 3 . Adanaspor 
+	 4 . Umraniye 
+
+4 . Grup 
+	 1 . Kasimpasa 
+	 2 . caykur Rizespor 
+	 3 . Eskisehirspor 
+	 4 . Altay 
+
+5 . Grup 
+	 1 . Antalyaspor 
+	 2 . Besiktas 
+	 3 . Akhisar Bld.Spor 
+	 4 . Adana Demirspor 
+
+6 . Grup 
+	 1 . Denizlispor 
+	 2 . Goztepe 
+	 3 . Konyaspor 
+	 4 . Altinordu 
+
+7 . Grup 
+	 1 . Hatayspor 
+	 2 . Malatyaspor 
+	 3 . Erzurum BB 
+	 4 . Galatasaray 
+
+8 . Grup 
+	 1 . Afjet Afyonspor 
+	 2 . Alanyaspor 
+	 3 . Fenerbahce 
+	 4 . Genclerbirligi 
+
+9 . Grup 
+	 1 . Elazigspor 
+	 2 . Trabzonspor 
+	 3 . Kayserispor 
+	 4 . Osmanlispor 
+
